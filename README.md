@@ -1,6 +1,13 @@
+![](tela_certa_logo.jpg)
+
 # Tela Certa
 
 Página web para o projeto Tela Certa
+
+
+## Modelo de Negócio
+
+O serviço se propõe a realizar manutenção de telas danificadas com celeridade e comodidade, sendo solicitado via telefone ou site. O serviço pode ainda ser personalizado em vários aspectos, como tipo de assistência, *delivery*, aparelho para *backup*, entre outros. Sendo um diferencial no mercado atual.
 
 
 ## Integrantes
